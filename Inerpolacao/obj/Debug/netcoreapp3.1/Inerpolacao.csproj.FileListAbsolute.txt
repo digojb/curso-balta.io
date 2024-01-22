@@ -1,0 +1,13 @@
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.exe
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.deps.json
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.runtimeconfig.json
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.runtimeconfig.dev.json
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.dll
+C:\Dev\Inerpolacao\bin\Debug\netcoreapp3.1\Inerpolacao.pdb
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.csprojAssemblyReference.cache
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.AssemblyInfoInputs.cache
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.AssemblyInfo.cs
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.csproj.CoreCompileInputs.cache
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.dll
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.pdb
+C:\Dev\Inerpolacao\obj\Debug\netcoreapp3.1\Inerpolacao.genruntimeconfig.cache
