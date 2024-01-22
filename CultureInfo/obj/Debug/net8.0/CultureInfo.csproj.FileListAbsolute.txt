@@ -1,0 +1,14 @@
+C:\Dev\CultureInfo\bin\Debug\net8.0\CultureInfo.exe
+C:\Dev\CultureInfo\bin\Debug\net8.0\CultureInfo.deps.json
+C:\Dev\CultureInfo\bin\Debug\net8.0\CultureInfo.runtimeconfig.json
+C:\Dev\CultureInfo\bin\Debug\net8.0\CultureInfo.dll
+C:\Dev\CultureInfo\bin\Debug\net8.0\CultureInfo.pdb
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfoInputs.cache
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfo.cs
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.csproj.CoreCompileInputs.cache
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.dll
+C:\Dev\CultureInfo\obj\Debug\net8.0\refint\CultureInfo.dll
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.pdb
+C:\Dev\CultureInfo\obj\Debug\net8.0\CultureInfo.genruntimeconfig.cache
+C:\Dev\CultureInfo\obj\Debug\net8.0\ref\CultureInfo.dll
